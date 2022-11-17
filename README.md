@@ -9,7 +9,6 @@
 
 [Live Demo Link](https://raw.githack.com/Takhmina175/MyPortfolio/main/index.html) 
 
-
 ## Author
 
 **Mina**
