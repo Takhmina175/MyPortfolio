@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Takhmina175/MyPortfolio/main/index.html) 
+[Live Demo Link](https://htmlpreview.github.io/?https://github.com/Takhmina175/MyPortfolio/blob/main/index.html) 
 
 ## Author
 
