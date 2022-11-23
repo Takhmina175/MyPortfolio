@@ -5,9 +5,6 @@
 * HTML & CSS
 * jQuery
 
-## Live Demo
-
-[Live Demo Link](https://rawcdn.githack.com/Takhmina175/MyPortfolio/8f6477bbd891e45dc88fcd9f7d15cc2bea5f13f0/index.html)
 
 ## Author
 
